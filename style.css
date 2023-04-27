@@ -63,7 +63,22 @@ h1{
   content: '◀';
   font-size: 70px;
   color: black;
+} 
+
+.carousel-control-right{
+  font-size: 70px;
+  color: black;
 }
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
 
 .carousel-indicators [data-bs-target] {
     box-sizing: content-box;
