@@ -1,2 +1,5 @@
 # fakestore-aliengame
-Fake store for practice. Design by Odiseo Bujanda
+### Design by Odiseo Bujanda.
+Fake store for practice.
+
+
